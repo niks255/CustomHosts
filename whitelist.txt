@@ -1,0 +1,6 @@
+aliexpress.com
+aliexpress.ru
+api.music.yandex.net
+avatars.yandex.net
+s.youtube.com
+api2.branch.io
