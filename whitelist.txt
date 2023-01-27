@@ -7,7 +7,6 @@ api2.branch.io
 meduza2.2sz.ru
 clck.yandex.ru
 storage.mds.yandex.net
-s.youtube.com
 sun9-3.userapi.com
 sun9-9.userapi.com
 sun9-28.userapi.com
