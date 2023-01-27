@@ -1,116 +1,116 @@
-aliexpress.com
-aliexpress.ru
-api.music.yandex.net
-avatars.yandex.net
-s.youtube.com
-api2.branch.io
-meduza2.2sz.ru
-clck.yandex.ru
-storage.mds.yandex.net
-sun9-3.userapi.com
-sun9-9.userapi.com
-sun9-28.userapi.com
-sun9-38.userapi.com
-sun9-57.userapi.com
-sun9-30.userapi.com
-sun9-60.userapi.com
-sun9-1.userapi.com
-sun9-23.userapi.com
-sun9-11.userapi.com
-sun9-53.userapi.com
-sun9-73.userapi.com
-sun9-56.userapi.com
-sun9-39.userapi.com
-sun9-32.userapi.com
-sun9-8.userapi.com
-sun9-87.userapi.com
-sun9-78.userapi.com
-sun9-51.userapi.com
-sun9-31.userapi.com
-sun9-46.userapi.com
-sun9-76.userapi.com
-sun9-29.userapi.com
-sun9-65.userapi.com
-sun9-58.userapi.com
-lolz.guru
-netlink.ru.net
-www.muz-tracker.net
-vip.tracker.thepiratebay.org
-tv.tracker.thepiratebay.org
-tracker.thepiratebay.org
-tracker.multisearch.ru
-tpb.tracker.thepiratebay.org
-open.tracker.thepiratebay.org
-announce.freeexchange.ru
-widgets.kinopoisk.ru
-visit.digidip.net
-ad.admitad.com^$important
-ssp.rambler.ru^$important
-st.top100.ru^$important
-ww38.main.termux-mirror.ml
-w127.zona.plus
-yougame.biz
-tracker.edgebooster.com
-torrent.spywareterminator.com
-open-tracker.info
-gdbt.3322.org
-torrentsnipe.info
-muz-tracker.net
-thepiratebay.org
-3322.org
-freeexchange.ru
-itzmx.com
-widget.mercuryo.io
-ru.akinator.com
-anonym.to
-metrics.24h.tv
-payeer.com
-ipinfo.io
-start.ru
-ping-admin.ru
-www.noo-journal.ru
-db-ip.com
-radioplanner.updatestar.com
-vortex.data.microsoft.com
-telemetry-in.battle.net
-umwatson.events.data.microsoft.com
-conv-blizzard-emea.cd.serving-sys.com
-track.4px.com
-t.co
-cdnbunny.org
-nnmstatic.win
-track24.ru
-zen.yandex.ru
-fly.torrentmove.com
-nbz.f3322.net
-opensharing.org
-accscdn.m.taobao.com
-h-adashx.ut.taobao.com
-clck.ru
-onelink.me
-alfabit.org
-gaztechservice.ru
-api.vigo.one
-group-ib.ru
-rutrk.org
-js.wpncdn.com
-genesis.1337x.org
-nemesis.1337x.org
-torrentmove.com
-1337x.org
-rarbg.com
-kemono.party
-trk.mail.ru
-get.surfshark.net
-shiksha
-ipfs.fleek.co
-mon-va.tiktokv.com
-events.mapbox.com
-www.iconarchive.com
-habrahabr.ru
-fleek.ipfs.io
-igg-games.com
-cloudfront.net
-api.onesignal.com
-tracking.ubisoft.com
-www.ntp-servers.net
+127.0.0.1 aliexpress.com
+127.0.0.1 aliexpress.ru
+127.0.0.1 api.music.yandex.net
+127.0.0.1 avatars.yandex.net
+127.0.0.1 s.youtube.com
+127.0.0.1 api2.branch.io
+127.0.0.1 meduza2.2sz.ru
+127.0.0.1 clck.yandex.ru
+127.0.0.1 storage.mds.yandex.net
+127.0.0.1 sun9-1.userapi.com
+127.0.0.1 sun9-3.userapi.com
+127.0.0.1 sun9-8.userapi.com
+127.0.0.1 sun9-9.userapi.com
+127.0.0.1 sun9-11.userapi.com
+127.0.0.1 sun9-23.userapi.com
+127.0.0.1 sun9-28.userapi.com
+127.0.0.1 sun9-29.userapi.com
+127.0.0.1 sun9-30.userapi.com
+127.0.0.1 sun9-32.userapi.com
+127.0.0.1 sun9-38.userapi.com
+127.0.0.1 sun9-39.userapi.com
+127.0.0.1 sun9-31.userapi.com
+127.0.0.1 sun9-46.userapi.com
+127.0.0.1 sun9-51.userapi.com
+127.0.0.1 sun9-53.userapi.com
+127.0.0.1 sun9-56.userapi.com
+127.0.0.1 sun9-57.userapi.com
+127.0.0.1 sun9-58.userapi.com
+127.0.0.1 sun9-60.userapi.com
+127.0.0.1 sun9-65.userapi.com
+127.0.0.1 sun9-73.userapi.com
+127.0.0.1 sun9-76.userapi.com
+127.0.0.1 sun9-78.userapi.com
+127.0.0.1 sun9-87.userapi.com
+127.0.0.1 lolz.guru
+127.0.0.1 netlink.ru.net
+127.0.0.1 www.muz-tracker.net
+127.0.0.1 vip.tracker.thepiratebay.org
+127.0.0.1 tv.tracker.thepiratebay.org
+127.0.0.1 tracker.thepiratebay.org
+127.0.0.1 tracker.multisearch.ru
+127.0.0.1 tpb.tracker.thepiratebay.org
+127.0.0.1 open.tracker.thepiratebay.org
+127.0.0.1 announce.freeexchange.ru
+127.0.0.1 widgets.kinopoisk.ru
+127.0.0.1 visit.digidip.net
+127.0.0.1 ad.admitad.com
+127.0.0.1 ssp.rambler.ru
+127.0.0.1 st.top100.ru
+127.0.0.1 ww38.main.termux-mirror.ml
+127.0.0.1 w127.zona.plus
+127.0.0.1 yougame.biz
+127.0.0.1 tracker.edgebooster.com
+127.0.0.1 torrent.spywareterminator.com
+127.0.0.1 open-tracker.info
+127.0.0.1 gdbt.3322.org
+127.0.0.1 torrentsnipe.info
+127.0.0.1 muz-tracker.net
+127.0.0.1 thepiratebay.org
+127.0.0.1 3322.org
+127.0.0.1 freeexchange.ru
+127.0.0.1 itzmx.com
+127.0.0.1 widget.mercuryo.io
+127.0.0.1 ru.akinator.com
+127.0.0.1 anonym.to
+127.0.0.1 metrics.24h.tv
+127.0.0.1 payeer.com
+127.0.0.1 ipinfo.io
+127.0.0.1 start.ru
+127.0.0.1 ping-admin.ru
+127.0.0.1 www.noo-journal.ru
+127.0.0.1 db-ip.com
+127.0.0.1 radioplanner.updatestar.com
+127.0.0.1 vortex.data.microsoft.com
+127.0.0.1 telemetry-in.battle.net
+127.0.0.1 umwatson.events.data.microsoft.com
+127.0.0.1 conv-blizzard-emea.cd.serving-sys.com
+127.0.0.1 track.4px.com
+127.0.0.1 t.co
+127.0.0.1 cdnbunny.org
+127.0.0.1 nnmstatic.win
+127.0.0.1 track24.ru
+127.0.0.1 zen.yandex.ru
+127.0.0.1 fly.torrentmove.com
+127.0.0.1 nbz.f3322.net
+127.0.0.1 opensharing.org
+127.0.0.1 accscdn.m.taobao.com
+127.0.0.1 h-adashx.ut.taobao.com
+127.0.0.1 clck.ru
+127.0.0.1 onelink.me
+127.0.0.1 alfabit.org
+127.0.0.1 gaztechservice.ru
+127.0.0.1 api.vigo.one
+127.0.0.1 group-ib.ru
+127.0.0.1 rutrk.org
+127.0.0.1 js.wpncdn.com
+127.0.0.1 genesis.1337x.org
+127.0.0.1 nemesis.1337x.org
+127.0.0.1 torrentmove.com
+127.0.0.1 1337x.org
+127.0.0.1 rarbg.com
+127.0.0.1 kemono.party
+127.0.0.1 trk.mail.ru
+127.0.0.1 get.surfshark.net
+127.0.0.1 shiksha
+127.0.0.1 ipfs.fleek.co
+127.0.0.1 mon-va.tiktokv.com
+127.0.0.1 events.mapbox.com
+127.0.0.1 www.iconarchive.com
+127.0.0.1 habrahabr.ru
+127.0.0.1 fleek.ipfs.io
+127.0.0.1 igg-games.com
+127.0.0.1 cloudfront.net
+127.0.0.1 api.onesignal.com
+127.0.0.1 tracking.ubisoft.com
+127.0.0.1 www.ntp-servers.net
