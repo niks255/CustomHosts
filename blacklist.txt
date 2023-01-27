@@ -1,33 +1,33 @@
-features.opera-api.com
-merchandise.opera-api.com
-tool.smokoko.com
-a.applvn.com
-yabawc.com
-adsdk.yandex.ru
-app-measurement.com
-assets.applovin.com
-d.applvn.com
-eu.ime.cootek.com
-graph.facebook.com
-imasdk.googleapis.com
-img.applovin.com
-in.appcenter.ms
-mobile.yandexadexchange.net
-ms.applovin.com
-ms.applvn.com
-prod-a.applovin.com
-report.appmetrica.yandex.net
-rosenberg.appmetrica.yandex.net
-rt.applovin.com
-rt.applvn.com
-sessions.bugsnag.com
-startup.mobile.yandex.net
-features.opera-api.com
-merchandise.opera-api.com
-metrics.torproject.org
-t.mail.ru
-location.services.mozilla.com
-www.googleadservices.com
-jstracer.yandex.ru
-static-mon.yandex.net
-location.services.mozilla.com
+127.0.0.1 features.opera-api.com
+127.0.0.1 merchandise.opera-api.com
+127.0.0.1 tool.smokoko.com
+127.0.0.1 a.applvn.com
+127.0.0.1 yabawc.com
+127.0.0.1 adsdk.yandex.ru
+127.0.0.1 app-measurement.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 d.applvn.com
+127.0.0.1 eu.ime.cootek.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 imasdk.googleapis.com
+127.0.0.1 img.applovin.com
+127.0.0.1 in.appcenter.ms
+127.0.0.1 mobile.yandexadexchange.net
+127.0.0.1 ms.applovin.com
+127.0.0.1 ms.applvn.com
+127.0.0.1 prod-a.applovin.com
+127.0.0.1 report.appmetrica.yandex.net
+127.0.0.1 rosenberg.appmetrica.yandex.net
+127.0.0.1 rt.applovin.com
+127.0.0.1 rt.applvn.com
+127.0.0.1 sessions.bugsnag.com
+127.0.0.1 startup.mobile.yandex.net
+127.0.0.1 features.opera-api.com
+127.0.0.1 merchandise.opera-api.com
+127.0.0.1 metrics.torproject.org
+127.0.0.1 t.mail.ru
+127.0.0.1 location.services.mozilla.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 jstracer.yandex.ru
+127.0.0.1 static-mon.yandex.net
+127.0.0.1 location.services.mozilla.com
