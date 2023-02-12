@@ -116,3 +116,4 @@ tracking.ubisoft.com
 www.ntp-servers.net
 cdn-gl.imrworldwide.com
 hls.live-video.net
+location.services.mozilla.com

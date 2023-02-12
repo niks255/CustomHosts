@@ -26,8 +26,6 @@
 127.0.0.1 merchandise.opera-api.com
 127.0.0.1 metrics.torproject.org
 127.0.0.1 t.mail.ru
-127.0.0.1 location.services.mozilla.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 jstracer.yandex.ru
 127.0.0.1 static-mon.yandex.net
-127.0.0.1 location.services.mozilla.com
