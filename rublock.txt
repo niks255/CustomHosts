@@ -75,4 +75,18 @@ wit.ai
 m.me
 messenger.com
 msngr.com
+pscdn.co
+scdn.co
+spoti.fi
+spotify.com
+spotifycdn.com
+spotifycdn.net
+spotifycharts.com
+spotifycodes.com
+spotifyjobs.com
+spotifynewsroom.jp
+spotilocal.com
+tospotify.com
+deezer.com
+dzcdn.net
 
