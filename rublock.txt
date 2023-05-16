@@ -32,6 +32,7 @@ buanzo.org
 adguard.com
 dailymotion.com
 ggpht.com
+yt3.ggpht.com
 play.google.com
 igg-games.com
 skidrowreloaded.com
