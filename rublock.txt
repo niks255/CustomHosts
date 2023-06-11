@@ -68,6 +68,7 @@ fbinfra.net
 fbpigeon.com
 fbsbx.com
 fbthirdpartypixel.com
+fonts.googleapis.com
 fbwat.ch
 internet.org
 m-freeway.com
